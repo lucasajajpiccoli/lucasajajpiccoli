@@ -1,4 +1,4 @@
-<h3 align="left">Hi there 👋</h3>
+<h2 align="left">Hi there 👋</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">About me</h3>
+<h2 align="left">About me</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">I code with</h3>
+<h2 align="left">I code with</h2>
 
 ###
 
@@ -49,11 +49,17 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="./assets/javascript.svg" height="40" width="52" alt="javascript logo"  />
   </a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <img src="./assets/css3.svg" height="40" width="52" alt="javascript logo"  />
+  </a>
+  <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
+    <img src="./assets/html5.svg" height="40" width="52" alt="javascript logo"  />
+  </a>
 </div>
 
 ###
 
-<h3 align="left">Stats</h3>
+<h2 align="left">Stats</h2>
 
 ###
 
